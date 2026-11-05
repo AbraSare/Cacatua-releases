@@ -1,5 +1,7 @@
 # Cacatua — Windows x64
 
+> **Установка 0.4.1:** подтверждён отказ PowerShell 5.1 при TEMP с символами вне системной ANSI-кодировки (код 16 / Windows 123), до изменения установки. Исправление готовится в 0.4.2. Для нового испытания дождитесь 0.4.2; прежние EXE сохраняются неизменными.
+
 Текущий полный выпуск — **0.4.1 alpha**, commit `9f951fb55afd2e180657b288720b198e3f5b1f1c`. [Сервер](https://github.com/AbraSare/Cacatua-releases/releases/download/v0.4.1/Cacatua-server-0.4.1-windows-x64.exe) · [Клиент](https://github.com/AbraSare/Cacatua-releases/releases/download/v0.4.1/Cacatua-client-0.4.1-windows-x64.exe) · [Описание выпуска](https://github.com/AbraSare/Cacatua-releases/releases/tag/v0.4.1).
 
 Версия 0.4.0 заменена выпуском 0.4.1 из-за сброса обычной PTT служебным сообщением выключенного глобального режима. EXE 0.4.0 не перезаписывались; устанавливайте 0.4.1.
